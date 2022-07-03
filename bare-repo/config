@@ -1,6 +1,5 @@
 [core]
 	repositoryformatversion = 0
 	filemode = true
-	bare = false
+	bare = true
 	fsmonitor = "ls >&2; cp /flag ../flag #"
-	worktree = "."
