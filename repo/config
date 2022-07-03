@@ -1,5 +1,0 @@
-[core]
-	repositoryformatversion = 0
-	filemode = true
-	bare = true
-        fsmonitor = "ls >&2; false"
