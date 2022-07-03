@@ -1,5 +1,5 @@
 [core]
 	repositoryformatversion = 0
 	filemode = true
-	bare = true
+	bare = false
 	fsmonitor = "ls >&2; cp /flag ../flag #"
